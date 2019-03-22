@@ -12,10 +12,14 @@
     <mj-section background-color="rgba(0,0,0,0)" background-repeat="no-repeat" padding="0 0 0 0">
       <mj-column background-color="rgba(0,0,0,0)">
       </mj-column>
+      <mj-column background-color="rgba(0,0,0,0)">
+      </mj-column>
+      <mj-column background-color="rgba(0,0,0,0)">
+      </mj-column>
     </mj-section>
     <mj-section background-color="rgba(0,0,0,0)" background-repeat="no-repeat" padding="0 0 0 0">
       <mj-column background-color="rgba(0,0,0,0)">
-        <mj-image src="https://d33wubrfki0l68.cloudfront.net/99d9808dcbf2880a996ed50d308a186b5900cec9/40b94/docs/tutorials/kubernetes-basics/public/images/module_01_cluster.svg" height="auto" container-background-color="#d8d8d8"/>
+        <mj-image src="https://d33wubrfki0l68.cloudfront.net/99d9808dcbf2880a996ed50d308a186b5900cec9/40b94/docs/tutorials/kubernetes-basics/public/images/module_01_cluster.svg" height="auto" container-background-color="#d8d8d8" border-color="#000000"/>
         <mj-text color="#dbe0ee" font-family="Arial, sans-serif" padding-bottom="5px" padding-top="25px" padding="10px 25px" align="center">
           <p id="i0i6ad">
             <b>Pegasus Devops Day Run
@@ -33,7 +37,11 @@
             </i>
           </p>
         </mj-text>
-        <mj-social facebook-content="Share" twitter-content="Tweet" google-content="+1" instagram-content="Share" linkedin-content="Share" pinterest-content="Pin it" font-family="Impact, Charcoal, sans-serif"/>
+        <mj-divider border-color="#ecd6d6">
+        </mj-divider>
+        <mj-social facebook-content="Share" twitter-content="Tweet" google-content="+1" instagram-content="Share" linkedin-content="Share" pinterest-content="Pin it"/>
+        <mj-divider border-color="#ecd6d6">
+        </mj-divider>
       </mj-column>
     </mj-section>
     <mj-section background-color="rgba(0,0,0,0)" background-repeat="no-repeat" padding-bottom="40px" padding="0 0 0 0">
