@@ -17,6 +17,7 @@
       <mj-column background-color="rgba(0,0,0,0)">
       </mj-column>
     </mj-section>
+
     <mj-section background-color="rgba(0,0,0,0)" background-repeat="no-repeat" padding="0 0 0 0">
       <mj-column background-color="rgba(0,0,0,0)">
         <mj-image src="https://d33wubrfki0l68.cloudfront.net/99d9808dcbf2880a996ed50d308a186b5900cec9/40b94/docs/tutorials/kubernetes-basics/public/images/module_01_cluster.svg" height="auto" container-background-color="#d8d8d8" border-color="#000000"/>
@@ -37,6 +38,9 @@
             </i>
           </p>
         </mj-text>
+        <mj-divider border-color="#ecd6d6">
+        </mj-divider>
+        <mj-chart chs="700x200" chd="s:theresadifferencebetweenknowingthepathandwalkingthepath" cht="bvs" chxt="y" chf="b0,lg,90,4CA4F5,0.1,C371D3,0.8,EA469E,1" />
         <mj-divider border-color="#ecd6d6">
         </mj-divider>
         <mj-social facebook-content="Share" twitter-content="Tweet" google-content="+1" instagram-content="Share" linkedin-content="Share" pinterest-content="Pin it"/>
